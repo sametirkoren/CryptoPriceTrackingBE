@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yE6OYVrEsBir8qArNi5gKV7U6cOXvsXXF5eThJhs/H8=",
+  "Source": "CryptoPriceTracking.API",
+  "BasePath": "_content/CryptoPriceTracking.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
